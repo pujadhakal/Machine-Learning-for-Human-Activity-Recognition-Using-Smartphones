@@ -1,0 +1,2 @@
+# Machine-Learning-for-Human-Activity-Recognition-Using-Smartphones
+Understanding and classifying human movements is critical in many disciplines, including  healthcare and sports analytics. With the introduction of wearable technology, such as cellphones  equipped with accelerometers and gyroscopes, the capacity to record and analyze human  movement patterns has become more accessible and insightful.
