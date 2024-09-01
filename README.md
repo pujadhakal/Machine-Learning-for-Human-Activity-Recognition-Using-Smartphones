@@ -5,3 +5,6 @@ The dataset under examination is the result of thorough tests performed on a coh
 overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low-frequency components; therefore, a filter with a 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domains.
 
 My main task is to use K-Means and DBSCAN to cluster on the given dataset and use a dimensionality reduction technique for K-Means and DBSCAN on the dataset. And analyze the result I get from 4 different models.
+
+Link to the dataset:
+https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
